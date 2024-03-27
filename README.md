@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cibelemoraes](https://github.com/cibelemoraes)
 
-- 💬 ergunte-me sobre **Python**
+- 💬 Pergunte-me sobre **Python**
 
 - 📫 Como entrar em contato comigo: **cibeledaniel863@gmail.com**
 
