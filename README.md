@@ -1,22 +1,16 @@
-<h3 align="center">Eu sou Cibele Moraes Lima, futura engenheira de Dados 👋</h3>
+<h3 style="text-align: center;">Eu sou Cibele Moraes Lima, futura engenheira de Dados 👋</h3>
 
-- 🔭 Atualmente estou trabalhando na **Scriptcase**
-
-- 🌱 Gosto de Estudar **Sobre Programação Python e Sql **
-
-- 👯 Atualmente estou aprendendo sobre **análise de dados e engenharia de dados**
-
-- 👨‍💻 All of my projects are available at [https://github.com/cibelemoraes](https://github.com/cibelemoraes)
-
-- 🔭Site Pessoa com projetos **https://sites.google.com/view/cibele-moraes-lima/p%C3%A1gina-inicial**
-
-- 👯Perfil Publico Dio **https://www.dio.me/users/cibeledaniel863**
-
-- 💬 Pergunte-me sobre **Python**
-
-- 📫 Como entrar em contato comigo: **cibeledaniel863@gmail.com**
-
-- ⚡ Curiosidade: **Amo astronomia e arquiologia**
+<ul>
+  <li>🔭 Atualmente estou trabalhando na <strong>Scriptcase</strong></li>
+  <li>🌱 Gosto de estudar <strong>Programação Python e SQL</strong></li>
+  <li>👯 Atualmente estou aprendendo sobre <strong>análise de dados e engenharia de dados</strong></li>
+  <li>👨‍💻 Todos os meus projetos estão disponíveis em <a href="https://github.com/cibelemoraes">https://github.com/cibelemoraes</a></li>
+  <li>🔭 Site pessoal com projetos: <a href="https://sites.google.com/view/cibele-moraes-lima/p%C3%A1gina-inicial">https://sites.google.com/view/cibele-moraes-lima/p%C3%A1gina-inicial</a></li>
+  <li>👯 Perfil Público no Dio: <a href="https://www.dio.me/users/cibeledaniel863">https://www.dio.me/users/cibeledaniel863</a></li>
+  <li>💬 Pergunte-me sobre <strong>Python</strong></li>
+  <li>📫 Como entrar em contato comigo: <strong>cibeledaniel863@gmail.com</strong></li>
+  <li>⚡ Curiosidade: Amo astronomia e arqueologia</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
