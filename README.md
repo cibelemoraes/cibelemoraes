@@ -2,17 +2,21 @@
 
 - 🔭 Atualmente estou trabalhando na **Scriptcase**
 
-- 🌱 Gosto de Estudar **Coursera e Dio**
+- 🌱 Gosto de Estudar **Sobre Programação Python e Sql **
 
 - 👯 Atualmente estou aprendendo sobre **análise de dados e engenharia de dados**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cibelemoraes](https://github.com/cibelemoraes)
 
+- 🔭Site Pessoa com projetos **https://sites.google.com/view/cibele-moraes-lima/p%C3%A1gina-inicial**
+
+- 👯Perfil Publico Dio **https://www.dio.me/users/cibeledaniel863**
+
 - 💬 Pergunte-me sobre **Python**
 
 - 📫 Como entrar em contato comigo: **cibeledaniel863@gmail.com**
 
-- ⚡ Curiosidade: **Támbem sou Fotografa Profissional**
+- ⚡ Curiosidade: **Amo astronomia e arquiologia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
