@@ -4,7 +4,7 @@
   <li>🔭 Atualmente estou trabalhando na <strong>Scriptcase</strong></li>
   <li>🌱 Gosto de estudar <strong>Programação Python e SQL</strong></li>
   <li>👯 Atualmente estou aprendendo sobre <strong>análise de dados e engenharia de dados</strong></li>
-  <li>👨‍💻 Todos os meus projetos estão disponíveis em <a href="https://github.com/cibelemoraes">https://github.com/cibelemoraes</a></li>
+  <li>👨‍💻 Perfil Público no Linkedin: <a href="https://www.linkedin.com/in/cibele-moraes/">https://www.linkedin.com/in/cibele-moraes/</a></li>
   <li>🔭 Site pessoal com projetos: <a href="https://sites.google.com/view/cibele-moraes-lima/p%C3%A1gina-inicial">https://sites.google.com/view/cibele-moraes-lima/p%C3%A1gina-inicial</a></li>
   <li>👯 Perfil Público no Dio: <a href="https://www.dio.me/users/cibeledaniel863">https://www.dio.me/users/cibeledaniel863</a></li>
   <li>💬 Pergunte-me sobre <strong>Python</strong></li>
