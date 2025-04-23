@@ -1,7 +1,7 @@
 <h3 style="text-align: center;">Eu sou Cibele Moraes Lima, futura engenheira de Dados 👋</h3>
 
 <ul>
-  <li>🔭 Atualmente estou trabalhando na <strong>Scriptcase</strong></li>
+  <li>🔭 Atualmente estou procurando emprego <strong></strong></li>
   <li>🌱 Gosto de estudar <strong>Programação Python e SQL</strong></li>
   <li>👯 Atualmente estou aprendendo sobre <strong>análise de dados e engenharia de dados</strong></li>
   <li>👨‍💻 Perfil Público no Linkedin: <a href="https://www.linkedin.com/in/cibele-moraes/">https://www.linkedin.com/in/cibele-moraes/</a></li>
